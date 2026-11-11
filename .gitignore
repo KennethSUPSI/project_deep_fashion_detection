@@ -1,0 +1,11 @@
+# Virtual environment
+fashion/
+
+# Dataset
+DeepFashion2 Resized/
+
+# Python / Jupyter / IDE
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
